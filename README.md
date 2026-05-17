@@ -39,13 +39,13 @@ on how to open the settings.
 ```
 ┌──────────────────┐       reads CSV every 5 minutes
 │ Google Sheets    │ ◀───────────────────────────────┐
-│ (shared sheet)   │                                  │
-└────────┬─────────┘                                  │
-         │                                            │
+│ (shared sheet)   │                                 │
+└────────┬─────────┘                                 │
+         │                                           │
          │ edited by admin                   ┌───────┴────────┐
-         │                                    │ Zoom Helper    │
-         ▼                                    │ on user PCs    │
-┌──────────────────┐                          └────────────────┘
+         │                                   │ Zoom Helper    │
+         ▼                                   │ on user PCs    │
+┌──────────────────┐                         └────────────────┘
 │   Administrator  │
 └──────────────────┘
 ```
