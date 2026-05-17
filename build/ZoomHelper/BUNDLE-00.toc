@@ -1,0 +1,3 @@
+([('ZoomHelper',
+   '/Users/kornejtarasov/Downloads/zoom_helper/dist/ZoomHelper',
+   'EXECUTABLE')],)
